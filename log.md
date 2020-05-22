@@ -11,3 +11,9 @@
 **Today's Progress**: I continued to work on my personal website. Struggled again with bootstrap and looked back to previous work to compare. I think i'm starting to big with a almost finished version of a navbar and need to start smaller.
 
 **Thoughts** It feels good to code, it's feeling like an old friend. Still lots to learn and get back to being comfortable with.
+
+### Day 3: May 21, Thursday
+
+**Today's Progress**: I started back with some tutorial training on Javascript. Started a task list project. Set up another repo and pushed 2 files to it.
+
+**Thoughts** Github is seeming less scary even after working with it for 3 days. This is good. V good.
