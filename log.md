@@ -17,3 +17,9 @@
 **Today's Progress**: I started back with some tutorial training on Javascript. Started a task list project. Set up another repo and pushed 2 files to it.
 
 **Thoughts** Github is seeming less scary even after working with it for 3 days. This is good. V good.
+
+### Day 4: May 22, Saturday
+
+**Today's Progress**: Rough rough rough, not much progress made. Tough to do on vacation and especially if i put it off until the end of the night. Followed the js tutorial and got kinda lost. UI is built but javascript doesn't execute properly, will figure out tomorrow.
+
+**Thoughts** I need to prioritize to earlier in the day and focus more on why things are happening.
