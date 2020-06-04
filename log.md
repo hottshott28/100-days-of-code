@@ -23,3 +23,9 @@
 **Today's Progress**: Rough rough rough, not much progress made. Tough to do on vacation and especially if i put it off until the end of the night. Followed the js tutorial and got kinda lost. UI is built but javascript doesn't execute properly, will figure out tomorrow.
 
 **Thoughts** I need to prioritize to earlier in the day and focus more on why things are happening.
+
+### Day 5: June 3, Wednesday
+
+**Today's Progress**: Focused on the basics today. Went back to studying HTML and reviewing some interview questions.
+
+**Thoughts** I need more time and more effort into this.
