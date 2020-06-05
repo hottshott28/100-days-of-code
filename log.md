@@ -29,3 +29,9 @@
 **Today's Progress**: Focused on the basics today. Went back to studying HTML and reviewing some interview questions.
 
 **Thoughts** I need more time and more effort into this.
+
+### Day 6: June 4, Thursday
+
+**Today's Progress**: Followed along the Javascipt Udemy course. Alot is going on but i'm getting the hang of it. Looked into new jobs and spend a good chunk of time coding today. chunk by chunk.
+
+**Thoughts** increasing the time i'm putting in is earning confidence.
