@@ -35,3 +35,9 @@
 **Today's Progress**: Followed along the Javascipt Udemy course. Alot is going on but i'm getting the hang of it. Looked into new jobs and spend a good chunk of time coding today. chunk by chunk.
 
 **Thoughts** increasing the time i'm putting in is earning confidence.
+
+### Day 6: June 6, Saturday
+
+**Today's Progress**: I CODED ON A SATURDAY. I'm pretty happy about doing that. It's easy to push it away as work but not if i'm getting a job in development. Today i finsihed the task list project and started a loan calculator. so far so good.
+
+**Thoughts** bootstrap is pretty bad ass.
